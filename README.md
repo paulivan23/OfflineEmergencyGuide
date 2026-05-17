@@ -55,11 +55,11 @@ Firestore Collection, Field Overview and other related documents about our app "
 Google Docs : https://docs.google.com/document/d/1KBeyl9VKXPvRDmxhLHvDW2SAX3Zo1BUJch0Ki4k9urs/edit?usp=sharing
 
 Members:
-Rechelle Casinto
-Paul Ivan Hipos
-Kean Jayvee Hito
+Rechelle Casinto,
+Paul Ivan Hipos,
+Kean Jayvee Gito
 
 APPLICATIONS DEVELOPMENT AND EMERGING TECHNOLOGIES 2
-BSCS 3-2
+(BSCS 3-2)
 
 2026
