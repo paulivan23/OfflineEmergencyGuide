@@ -1,17 +1,17 @@
-Offline Emergency Guide App
+# Offline Emergency Guide App
 
 Offline Emergency Guide delivers instant, life-saving first aid and survival instructions entirely offline for when cellular networks fail. It features clear, step-by-step visual guides and built-in tools like an SOS flashlight to help you navigate natural disasters, medical crises, or off-grid accidents. Download it today to ensure expert safety protocols and peace of mind are always in your pocket.
 
-Problem Statement
+## Problem Statement
 The primary challenge is the unreliability of critical information access during emergencies. In high-stress situations, such as natural disasters or remote accidents, cellular networks and internet connectivity often become unstable or completely unavailable. Current digital resources for first aid and emergency response frequently rely on cloud-based data, leaving users without guidance when they need it most. Furthermore, existing information is often scattered across multiple platforms, leading to panic, delayed response times, and increased risk of injury or fatality due to a lack of centralized, offline-ready instructions.
 
 
-Project Objectives
+## Project Objectives
 
-General Objective:
+### General Objective:
 To develop and implement a mobile-based Offline Emergency Guide Application that provides centralized, immediate access to life-saving information, first aid protocols, and emergency contacts without the requirement of an internet connection.
 
-Specific Objectives:
+### Specific Objectives:
 Provide offline emergency guides - This objective aims to provide a reliable repository of emergency response information that remains accessible on the device regardless of cellular or internet connectivity.
 
 Offer first aid instructions - The goal is to offer step-by-step, actionable guidance for common medical emergencies such as cuts, burns, and choking, to enable immediate and effective bystander intervention.
@@ -23,11 +23,11 @@ Share disaster preparedness tips - The objective is to equip users with proactiv
 Create a user-friendly interface - This focus ensures the application features a high-accessibility, intuitive design that allows users to navigate and retrieve life-saving information in seconds under high-stress conditions.
 
 
-Target Users 
+## Target Users 
 The application is intended for students, families, travelers, and community members who need quick access to emergency information.
 
 
-Development Steps (EAS Build Process)
+## Development Steps (EAS Build Process)
 
 Step-by-step Setup Procedures
 Step 1: Visit Expo Docs (Expo Docs is the official documentation provided by Expo that contains guides, tutorials, and references for developing applications using Expo and React Native.)
@@ -59,7 +59,7 @@ Rechelle Casinto,
 Paul Ivan Hipos,
 Kean Jayvee Gito
 
-APPLICATIONS DEVELOPMENT AND EMERGING TECHNOLOGIES 2
+### APPLICATIONS DEVELOPMENT AND EMERGING TECHNOLOGIES 2
 (BSCS 3-2)
 
 2026
